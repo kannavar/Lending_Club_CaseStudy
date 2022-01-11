@@ -32,7 +32,7 @@ We will use EDA to understand how **consumer attributes** and **loan attributes*
 
 **- What is the dataset that is being used?**
 
-loan.csv - This dataset contains information about past applicants and whether they "defaulted" or not.
+loan.csv - This dataset contains the complete loan data for all loans issued through the time period 2007 to 2011 and whether a particular loan is defaulted or not 
 
 Data_Dictionary.xlx  - This spreadsheet contains the description of all the variables (columns) present in the loan dataset.
 
